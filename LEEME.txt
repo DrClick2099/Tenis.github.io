@@ -1,0 +1,31 @@
+CATALOGO OUTLET PREMIUM - GITHUB PAGES
+
+PUBLICAR
+1. Descomprime este ZIP.
+2. Sube TODO su contenido a la raiz de tu repositorio. index.html debe quedar en la raiz, junto a catalog.json, admin.html, assets y products.
+3. En GitHub abre Settings > Pages > Build and deployment.
+4. Elige Deploy from a branch, rama main, carpeta / (root), y Save.
+5. Espera a que termine la publicacion y abre la direccion que muestre GitHub.
+No requiere instalar Node, compilar, ni usar el ZIP anterior de la version alojada en ChatGPT.
+
+CLIENTES
+index.html: catalogo, filtros por marca/talla, fotografias, carrito y pedido por WhatsApp. No necesitan cuenta. El envio se confirma por WhatsApp; no se cobra en la pagina.
+
+EDITOR LOCAL
+Abre admin.html desde tu sitio publicado. Puedes agregar modelos y fotos, modificar precios, eliminar productos y marcarlos agotados. Guarda un borrador en ese navegador.
+IMPORTANTE: este editor NO es una cuenta de administrador protegida y NO escribe en GitHub. Cualquier visitante puede editar su propio borrador, pero solo quien tenga permisos en tu repositorio puede publicar cambios.
+Para publicar tus cambios:
+1. Pulsa Descargar catalog.json actualizado.
+2. Reemplaza catalog.json en la raiz de tu repositorio con el archivo descargado y confirma el commit.
+3. Espera a que GitHub Pages publique el cambio.
+Las fotos nuevas se incluyen en catalog.json; no necesitas subirlas aparte. Las fotos originales estan en products: conserva esa carpeta.
+No borres los datos del navegador antes de descargar tu borrador. Para volver al catalogo publicado, usa Descartar borrador local.
+
+WHATSAPP
+Numero inicial: 52 449 412 6314 (contacto del PDF). Puedes cambiarlo en el editor y publicar catalog.json actualizado. Incluye codigo de pais, sin espacios ni signos.
+
+ALCANCE
+Esta version es estatica para GitHub Pages. Las cuentas protegidas de administrador y cliente y el inventario compartido con actualizacion automatica necesitan un backend externo. No incluye credenciales ni una cuenta falsa de administrador.
+No hay reserva de stock por cantidad: disponible/agotado se controla por modelo. El pedido se revisa y confirma por WhatsApp.
+El carrito se guarda en el navegador del cliente. Comprueba disponibilidad antes de preparar el mensaje.
+Para que cargue correctamente, usa la URL de GitHub Pages; no abras index.html con doble clic.

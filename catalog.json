@@ -1,0 +1,306 @@
+{
+  "phone": "524494126314",
+  "products": [
+    {
+      "id": "1",
+      "name": "Adidas Duramo Rc",
+      "size": "24",
+      "price": 1200,
+      "images": [
+        "products/1-0.jpg",
+        "products/1-1.jpg"
+      ],
+      "soldOut": false,
+      "brand": "Adidas"
+    },
+    {
+      "id": "2",
+      "name": "Puma Nitro",
+      "size": "24.5",
+      "price": 1100,
+      "images": [
+        "products/2-0.jpg",
+        "products/2-1.jpg"
+      ],
+      "soldOut": false,
+      "brand": "Puma"
+    },
+    {
+      "id": "3",
+      "name": "Nike Interact Run",
+      "size": "24.5",
+      "price": 1400,
+      "images": [
+        "products/3-0.jpg",
+        "products/3-1.jpg"
+      ],
+      "soldOut": false,
+      "brand": "Nike"
+    },
+    {
+      "id": "4",
+      "name": "New Balance (Coco Gauff)",
+      "size": "25",
+      "price": 950,
+      "images": [
+        "products/4-0.jpg"
+      ],
+      "soldOut": false,
+      "brand": "New Balance"
+    },
+    {
+      "id": "5",
+      "name": "Adidas Terrex",
+      "size": "25",
+      "price": 1200,
+      "images": [
+        "products/5-0.jpg",
+        "products/5-1.jpg"
+      ],
+      "soldOut": false,
+      "brand": "Adidas"
+    },
+    {
+      "id": "6",
+      "name": "Adidas Casual",
+      "size": "25.5",
+      "price": 800,
+      "images": [
+        "products/6-0.jpg",
+        "products/6-1.jpg"
+      ],
+      "soldOut": false,
+      "brand": "Adidas"
+    },
+    {
+      "id": "7",
+      "name": "Nike Waffle (Retro)",
+      "size": "26",
+      "price": 1500,
+      "images": [
+        "products/7-0.jpg",
+        "products/7-1.jpg"
+      ],
+      "soldOut": false,
+      "brand": "Nike"
+    },
+    {
+      "id": "8",
+      "name": "New Balance 996",
+      "size": "26",
+      "price": 900,
+      "images": [
+        "products/8-0.jpg"
+      ],
+      "soldOut": false,
+      "brand": "New Balance"
+    },
+    {
+      "id": "9",
+      "name": "Puma Easy Ryder",
+      "size": "26",
+      "price": 1050,
+      "images": [
+        "products/9-0.jpg",
+        "products/9-1.jpg"
+      ],
+      "soldOut": false,
+      "brand": "Puma"
+    },
+    {
+      "id": "10",
+      "name": "Adidas Breaknet",
+      "size": "26",
+      "price": 1250,
+      "images": [
+        "products/10-0.jpg",
+        "products/10-1.jpg"
+      ],
+      "soldOut": false,
+      "brand": "Adidas"
+    },
+    {
+      "id": "11",
+      "name": "Adidas Response Super",
+      "size": "26",
+      "price": 1300,
+      "images": [
+        "products/11-0.jpg",
+        "products/11-1.jpg",
+        "products/11-2.jpg"
+      ],
+      "soldOut": false,
+      "brand": "Adidas"
+    },
+    {
+      "id": "12",
+      "name": "Nike Zoom Gravity",
+      "size": "26.5",
+      "price": 1250,
+      "images": [
+        "products/12-0.jpg",
+        "products/12-1.jpg"
+      ],
+      "soldOut": false,
+      "brand": "Nike"
+    },
+    {
+      "id": "13",
+      "name": "Nike Air Winflo10",
+      "size": "26.5",
+      "price": 1250,
+      "images": [
+        "products/13-0.jpg",
+        "products/13-1.jpg"
+      ],
+      "soldOut": false,
+      "brand": "Nike"
+    },
+    {
+      "id": "14",
+      "name": "Nike Gianis Inmortality4",
+      "size": "26.5",
+      "price": 1550,
+      "images": [
+        "products/14-0.jpg",
+        "products/14-1.jpg"
+      ],
+      "soldOut": false,
+      "brand": "Nike"
+    },
+    {
+      "id": "15",
+      "name": "Nike Pegasus36",
+      "size": "27",
+      "price": 1300,
+      "images": [
+        "products/15-0.jpg",
+        "products/15-1.jpg"
+      ],
+      "soldOut": false,
+      "brand": "Nike"
+    },
+    {
+      "id": "16",
+      "name": "Nike Pegasus 38",
+      "size": "27",
+      "price": 1150,
+      "images": [
+        "products/16-0.jpg",
+        "products/16-1.jpg"
+      ],
+      "soldOut": false,
+      "brand": "Nike"
+    },
+    {
+      "id": "17",
+      "name": "Puma Club",
+      "size": "27",
+      "price": 1150,
+      "images": [
+        "products/17-0.jpg",
+        "products/17-1.jpg"
+      ],
+      "soldOut": false,
+      "brand": "Puma"
+    },
+    {
+      "id": "18",
+      "name": "Nike Air Max Axis",
+      "size": "27",
+      "price": 1500,
+      "images": [
+        "products/18-0.jpg",
+        "products/18-1.jpg",
+        "products/18-2.jpg"
+      ],
+      "soldOut": false,
+      "brand": "Nike"
+    },
+    {
+      "id": "19",
+      "name": "New Balance",
+      "size": "27",
+      "price": 1480,
+      "images": [
+        "products/19-0.jpg",
+        "products/19-1.jpg"
+      ],
+      "soldOut": false,
+      "brand": "New Balance"
+    },
+    {
+      "id": "20",
+      "name": "Puma Gray Echofora",
+      "size": "27",
+      "price": 1200,
+      "images": [
+        "products/20-0.jpg",
+        "products/20-1.jpg"
+      ],
+      "soldOut": false,
+      "brand": "Puma"
+    },
+    {
+      "id": "21",
+      "name": "Adidas Vl Court Base",
+      "size": "27.5",
+      "price": 1150,
+      "images": [
+        "products/21-0.jpg",
+        "products/21-1.jpg"
+      ],
+      "soldOut": false,
+      "brand": "Adidas"
+    },
+    {
+      "id": "22",
+      "name": "Nike Free Metcom5",
+      "size": "27.5",
+      "price": 1400,
+      "images": [
+        "products/22-0.jpg",
+        "products/22-1.jpg"
+      ],
+      "soldOut": false,
+      "brand": "Nike"
+    },
+    {
+      "id": "23",
+      "name": "Asics Ds Trainer",
+      "size": "28",
+      "price": 1100,
+      "images": [
+        "products/23-0.jpg",
+        "products/23-1.jpg",
+        "products/23-2.jpg"
+      ],
+      "soldOut": false,
+      "brand": "Asics"
+    },
+    {
+      "id": "24",
+      "name": "Adidas Lightshift",
+      "size": "28",
+      "price": 1280,
+      "images": [
+        "products/24-0.jpg",
+        "products/24-1.jpg"
+      ],
+      "soldOut": false,
+      "brand": "Adidas"
+    },
+    {
+      "id": "25",
+      "name": "Adidas Response",
+      "size": "28",
+      "price": 1400,
+      "images": [
+        "products/25-0.jpg",
+        "products/25-1.jpg"
+      ],
+      "soldOut": false,
+      "brand": "Adidas"
+    }
+  ]
+}
